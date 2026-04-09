@@ -7,7 +7,7 @@ Each use case focuses on solving a specific business problem with practical impl
 
 ## 📂 Topics
 
-### 01. Org Fundamentals
+### 01. [Org Fundamentals](./01. Org Fundamentals)
 - [Org Profile Setup](./01-org-fundamentals/use-case-01-org-profile-setup)
 - [Sandbox Types & Usage](./01-org-fundamentals/use-case-02-sandbox-types)
 
