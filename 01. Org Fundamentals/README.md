@@ -1,98 +1,48 @@
-# Use Case: [Clear Title]
+# [Topic Name]
 
-## 📌 Problem Statement
-Describe the real business problem.
-- What was happening?
-- Why was it inefficient or risky?
+This section covers hands-on use cases related to [brief topic description].
 
 ---
 
-## 🎯 Objective
-What you wanted to achieve.
-- Automate / improve / control what?
+## 🎯 What This Covers
+- Key concept 1
+- Key concept 2
+- Key concept 3
+
+(Keep it short — don’t turn this into theory notes)
 
 ---
 
-## 🧠 Solution Approach
-High-level logic (not steps).
-- Why you chose this solution
-- Why not another approach (if relevant)
+## 📂 Use Cases
+
+### 1. [Use Case Name]
+- [View Implementation](./use-case-01-name)
+- Short one-line description of what it solves
 
 ---
 
-## ⚙️ Implementation Details
-
-### 🔹 Configuration
-- Objects used:
-- Fields created:
-- Features used (Flow, Assignment Rules, Validation, etc.):
-
-### 🔹 Steps Performed
-1. Step 1 (clear and concise)
-2. Step 2
-3. Step 3
+### 2. [Use Case Name]
+- [View Implementation](./use-case-02-name)
+- Short one-line description
 
 ---
 
-## 🔄 Process Flow
-Explain lifecycle in plain English:
-
-1. Trigger event (e.g., Lead created)
-2. System logic applied
-3. Final outcome
+### 3. [Use Case Name]
+- [View Implementation](./use-case-03-name)
+- Short one-line description
 
 ---
 
-## 📊 Outcome / Impact
-What improved?
+## 🧠 Key Focus Areas
+(Optional but strong)
 
-- Reduced manual effort
-- Faster processing
-- Better data accuracy
-- Improved visibility
-
-(Be specific if possible)
-
----
-
-## ⚠️ Edge Cases Considered
-Show thinking depth:
-
-- What if data is missing?
-- What if conditions don’t match?
-- What happens in exceptions?
-
----
-
-## 📸 Screenshots
-
-### Configuration
-![Config](./screenshots/config.png)
-
-### Execution Result
-![Result](./screenshots/result.png)
-
-(Add more if needed)
-
----
-
-## 🧩 Challenges Faced
-(Optional but powerful)
-
-- What didn’t work initially?
-- What did you fix?
-
----
-
-## 🧠 Key Learnings
-What you actually learned:
-
-- Conceptual understanding
-- Platform behavior
-- Limitations
+- What you are practicing in this topic
+- Example:
+  - Automation logic
+  - Data relationships
+  - Access control behavior
 
 ---
 
 ## 🔙 Navigation
-- [Back to Topic](../)
-- [Back to Repository](../../README.md)
+- [Back to Main Repository](../README.md)
