@@ -8,7 +8,7 @@ Each use case focuses on solving a specific business problem with practical impl
 ## 📂 Topics
 
 ### 01. Org Fundamentals
-- [Org Profile Setup](./01-org-fundamentals/use-case-01-org-profile-setup)
+- [Org Profile Setup](https://github.com/devhimvats/Topic-wise-Use-Case-Practice/tree/main/01.%20Org%20Fundamentals/Use%20Case%201#use-case-clear-title)
 - [Sandbox Types & Usage](./01-org-fundamentals/use-case-02-sandbox-types)
 
 ---
