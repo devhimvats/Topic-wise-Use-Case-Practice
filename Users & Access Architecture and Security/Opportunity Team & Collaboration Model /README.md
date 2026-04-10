@@ -78,7 +78,7 @@ For each Sales user:
 <table>
   <tr>
     <td><img src="Assets/Vallidate Default team.png" ="/></td>
-    <td><img src="Assets/Validate Access 2.png.png"/></td>
+    <td><img src="Assets/Validate Access 2.png"/></td>
   </tr>
    <tr>
     <td><img src="Assets/Create default Opportunity team.png" ="/></td>
