@@ -39,7 +39,6 @@ Allows additional stakeholders to be added manually based on deal-specific requi
   - Opportunity Teams
   - Default Opportunity Teams
     
-![Enable Opportunity Teams](Assets/Enable-Opportunity-Team.png)
 <img src="Assets/Enable-Opportunity-Team.png" width="600"/>
 ---
 
