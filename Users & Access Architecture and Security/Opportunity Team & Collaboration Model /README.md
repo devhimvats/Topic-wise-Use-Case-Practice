@@ -78,11 +78,15 @@ For each Sales user:
 <table>
   <tr>
     <td><img src="Assets/Vallidate Default team.png" ="/></td>
-    <td><img src="Assets/Validate Access 2.png"/></td>
+    <td><img src="Assets/Validate Access 1.png"/></td>
   </tr>
    <tr>
-    <td><img src="Assets/Create default Opportunity team.png" ="/></td>
-    <td><img src="Assets/Default Opportunity Team.png"/></td>
+    <td><img src="Assets/Validate Access 2.png"/></td>
+    <td><img src="Assets/Add Opportunity Team Member-1.png"/></td>
+  </tr>
+   <tr>
+    <td><img src="Assets/Add Opportunity Team Member-2.png"/></td>
+    <td><img src="Assets/Validate New Opportunity Team Member.png"/></td>
   </tr>
 </table>
 
