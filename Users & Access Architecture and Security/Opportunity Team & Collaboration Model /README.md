@@ -54,7 +54,10 @@ For each Sales user:
 
   <table>
   <tr>
-    <td><img src="Assets/Create default Opportunity team.png" ="/></td>
+    <td><img src="Assets/Create default Opportunity team.png" ="/>
+     <br/>
+      <em>Go to User Record and Click Add Under Default Team Related List. </em>
+    </td>
     <td><img src="Assets/Default Opportunity Team.png"/></td>
   </tr>
 </table>
