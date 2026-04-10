@@ -40,6 +40,8 @@ Allows additional stakeholders to be added manually based on deal-specific requi
   - Default Opportunity Teams
 <p align="center"> 
 <img src="Assets/Enable-Opportunity-Team.png" width="400"/>
+<br/>
+<em>Enable Team Selling</em>
 </p>
 
 ---
