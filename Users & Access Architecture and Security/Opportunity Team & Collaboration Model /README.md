@@ -39,7 +39,7 @@ Allows additional stakeholders to be added manually based on deal-specific requi
   - Opportunity Teams
   - Default Opportunity Teams
     
-![Enable Opportunity Teams](./Topic-wise-Use-Case-Practice/Users & Access Architecture and Security/Opportunity Team & Collaboration Model /Assets/Enable Opportunity Team.png)
+![Enable Opportunity Teams](Assets/Enable Opportunity Team.png)
 ---
 
 ### Step 2: Configure Default Opportunity Team
