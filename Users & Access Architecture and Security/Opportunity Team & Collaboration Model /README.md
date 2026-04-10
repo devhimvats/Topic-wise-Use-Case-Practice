@@ -58,9 +58,10 @@ For each Sales user:
      <br/>
       <em>User Record > Default Opportunity Team > Add </em>
     </td>
-    <td><img src="Assets/Default Opportunity Team.png"/></td>
+    <td><img src="Assets/Default Opportunity Team.png"/>
      <br/>
       <em>Review Your Team </em>
+      </td>
   </tr>
 </table>
 
