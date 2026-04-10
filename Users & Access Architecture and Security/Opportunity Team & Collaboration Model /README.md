@@ -49,7 +49,10 @@ For each Sales user:
 - Define default team members:
   - Sales Manager → Read Only access
   - Pre-Sales Engineer → Read/Write access
-
+<p align="center"> 
+<img src="Assets/Create default Opportunity team.png" width="600"/>
+<img src="Assets/Default Opportunity Team.png" width="600"/>
+</p>
 ---
 
 ### Step 3: Create Opportunity
