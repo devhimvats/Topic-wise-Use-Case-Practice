@@ -51,7 +51,7 @@ For each Sales user:
 - Define default team members:
   - Sales Manager → Read Only access
   - Pre-Sales Engineer → Read/Write access
-
+<br/>
   <table>
   <tr>
     <td><img src="Assets/Create default Opportunity team.png" ="/>
@@ -59,6 +59,8 @@ For each Sales user:
       <em>User Record > Default Opportunity Team > Add </em>
     </td>
     <td><img src="Assets/Default Opportunity Team.png"/></td>
+     <br/>
+      <em>Review Your Team </em>
   </tr>
 </table>
 
