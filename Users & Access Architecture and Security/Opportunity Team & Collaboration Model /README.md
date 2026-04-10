@@ -38,9 +38,12 @@ Allows additional stakeholders to be added manually based on deal-specific requi
 - Enable:
   - Opportunity Teams
   - Default Opportunity Teams
-    
+<p align="center"> 
 <img src="Assets/Enable-Opportunity-Team.png" width="600"/>
-<hr>
+</p>
+
+---
+
 ### Step 2: Configure Default Opportunity Team
 For each Sales user:
 - Define default team members:
