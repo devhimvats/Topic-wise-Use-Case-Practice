@@ -93,27 +93,27 @@ For each Sales user:
     </td>
     <td><img src="Assets/Validate Access 1.png"/>
     <br/>
-    <em>Enable Team Selling</em>
+    <em>Login with Team User and Edit the record</em>
     </td>
   </tr>
    <tr>
     <td><img src="Assets/Validate Access 2.png"/>
     <br/>
-    <em>Enable Team Selling</em>
+    <em>Confirm the level of access.</em>
     </td>
     <td><img src="Assets/Add Opportunity Team Member-1.png"/>
     <br/>
-    <em>Enable Team Selling</em>
+    <em>Add a new member to the Team manually.</em>
     </td>
   </tr>
    <tr>
     <td><img src="Assets/Add Opportunity Team Member-2.png"/>
     <br/>
-    <em>Enable Team Selling</em>
+    <em>Select the User, Role and Level of Access.</em>
     </td>
     <td><img src="Assets/Validate New Opportunity Team Member.png"/>
     <br/>
-    <em>Enable Team Selling</em>
+    <em>Validate new user.</em>
     </td>
   </tr>
 </table>
