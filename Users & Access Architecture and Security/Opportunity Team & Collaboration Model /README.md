@@ -176,3 +176,9 @@ This implementation demonstrates how Salesforce can be configured to balance:
 - Efficiency (automation via default teams)
 
 It reflects a real-world sales process design where collaboration is structured, scalable, and consistent.
+
+---
+
+## 🔙 Navigation
+
+<a href="Users & Access Architecture and Securityy">Go to Topic</a>
