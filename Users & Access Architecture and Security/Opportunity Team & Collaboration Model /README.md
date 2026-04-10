@@ -73,6 +73,8 @@ For each Sales user:
 - Verify that default team members are automatically added
 <p align="center"> 
 <img src="Assets/Create Opportunity.png" width="400"/>
+  <br/>
+<em>Create a New Opportunity</em>
 </p>
 
 ---
@@ -85,16 +87,34 @@ For each Sales user:
 
 <table>
   <tr>
-    <td><img src="Assets/Vallidate Default team.png" ="/></td>
-    <td><img src="Assets/Validate Access 1.png"/></td>
+    <td><img src="Assets/Vallidate Default team.png" ="/>
+    <br/>
+    <em>Validate Default team is added to the Opportunity Created.</em>
+    </td>
+    <td><img src="Assets/Validate Access 1.png"/>
+    <br/>
+    <em>Enable Team Selling</em>
+    </td>
   </tr>
    <tr>
-    <td><img src="Assets/Validate Access 2.png"/></td>
-    <td><img src="Assets/Add Opportunity Team Member-1.png"/></td>
+    <td><img src="Assets/Validate Access 2.png"/>
+    <br/>
+    <em>Enable Team Selling</em>
+    </td>
+    <td><img src="Assets/Add Opportunity Team Member-1.png"/>
+    <br/>
+    <em>Enable Team Selling</em>
+    </td>
   </tr>
    <tr>
-    <td><img src="Assets/Add Opportunity Team Member-2.png"/></td>
-    <td><img src="Assets/Validate New Opportunity Team Member.png"/></td>
+    <td><img src="Assets/Add Opportunity Team Member-2.png"/>
+    <br/>
+    <em>Enable Team Selling</em>
+    </td>
+    <td><img src="Assets/Validate New Opportunity Team Member.png"/>
+    <br/>
+    <em>Enable Team Selling</em>
+    </td>
   </tr>
 </table>
 
